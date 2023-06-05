@@ -2,6 +2,8 @@
 
 You are given an array of objects that represent books with an author and a title that looks like this:
 
+
+The below is JSON. JavaScript Object Notation.
 ```javascript
 const books = [
   {
